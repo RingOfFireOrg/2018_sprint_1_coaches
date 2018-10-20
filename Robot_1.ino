@@ -47,8 +47,8 @@ void loop() {
   if (distance < 5) {
     stop();
     delay(1000);
-    backup();
-    delay(1000);
+//    backup();
+//    delay(1000);
   } else {
     forward();
   }
