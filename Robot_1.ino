@@ -2,6 +2,7 @@
 // Example NewPing library sketch that does a ping about 20 times per second.
 // Linda was here first today!
 // Rob was here again
+// Linda just keeps coming back
 // ---------------------------------------------------------------------------
 
 #include <NewPing.h>
